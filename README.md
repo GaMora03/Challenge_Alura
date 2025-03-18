@@ -6,9 +6,6 @@ Este es el proyecto del Juego "Amigo Secreto".
 
 La funcionalidad de este programa se basa en elegir aleatoriamente un nombre entre los que se introduzcan para sortear el nombre de un grupo de personas.
 
-  ```bash
-https://github.com/GaMora03/Challenge_Alura
-  ``` 
 ##  Instalación  
 
 1. Clona el repositorio en tu computadora:  
